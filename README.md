@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/AnotherEngineerHere/machine-learning-capstone-project)
 
-- 🌱 I’m currently learning **C#, Machine Learning and Python**
+- 🌱 I’m currently learning **Golang and Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnotherEngineerHere?tab=repositories](https://github.com/AnotherEngineerHere?tab=repositories)
 
