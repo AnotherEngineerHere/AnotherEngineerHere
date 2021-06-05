@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anotherengineerhere&label=Profile%20views&color=0e75b6&style=flat" alt="anotherengineerhere" /> </p>
 
-- 🔭 I’m currently working on [Machine Learning](https://github.com/AnotherEngineerHere/machine-learning-capstone-project)
-
+- 🔭 I’m currently working on Golang
 - 🌱 I’m currently learning **Golang and Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnotherEngineerHere?tab=repositories](https://github.com/AnotherEngineerHere?tab=repositories)
