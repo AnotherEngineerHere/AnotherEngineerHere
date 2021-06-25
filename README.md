@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Phaser GameDev**
 
-- 💬 Ask me about **Golang,C#, Python and Java**
+- 💬 Ask me about **C#, Python and Java**
 
 - 📫 How to reach me **juanxxi2015@gmail.com**
 
