@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres</h1>
 <h3 align="center">An software engineer student from Colombia</h3>
 
-- 🔭 I’m currently working on **Phaser GameDev**
+- 🔭 I’m currently working on **30 Days of Javascript**
 
 - 💬 Ask me about **C#, Python and Java**
 
