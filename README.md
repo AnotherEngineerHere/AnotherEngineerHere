@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres</h1>
 <h3 align="center">An software engineer student from Colombia</h3>
 
-- 🔭 I’m currently working on **Golang Real time chat Project**
+- 🔭 I’m currently working on **Guideline for good practices in web services in the cloud**
 
 - 💬 Ask me about **C#, Python and Java**
 
