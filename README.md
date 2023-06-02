@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andres</h1>
-<h3 align="center">An software engineer student from Colombia</h3>
+<h3 align="center">A software engineer student from Colombia</h3>
 
-- 🔭 I’m currently working as a **Java Developer**
+- 🔭 I’m currently working as a **Backend Developer**
 
-- 💬 Ask me about **C#, Python and Java**
+- 💬 Ask me about **C#, Python and Java and Data Analysis**
 
 - 📫 How to reach me **juanxxi2015@gmail.com**
 
