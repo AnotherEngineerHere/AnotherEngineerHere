@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Backend Developer**
 
-- 💬 Ask me about **Java,(Spring Boot), C# (.NET Framwework)**
+- 💬 Ask me about **Java,(Spring Boot), C# (.NET Framwework), Python**
 
 - 📫 How to reach me **juanxxi2015@gmail.com**
 
